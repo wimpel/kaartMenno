@@ -1,0 +1,12 @@
+name: app_mtm
+title: app_mtm
+username: vwmdata
+account: vwmdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11392769
+bundleId: 8325594
+url: https://vwmdata.shinyapps.io/app_mtm/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

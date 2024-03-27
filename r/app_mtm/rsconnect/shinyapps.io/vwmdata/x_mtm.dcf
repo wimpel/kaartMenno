@@ -1,0 +1,13 @@
+name: x_mtm
+title: x_mtm
+username:
+account: vwmdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 962243
+bundleId: 7198885
+url: https://vwmdata.shinyapps.io/x_mtm/
+when: 1683716877.23811
+lastSyncTime: 1683716877.23812
+asMultiple: FALSE
+asStatic: FALSE
